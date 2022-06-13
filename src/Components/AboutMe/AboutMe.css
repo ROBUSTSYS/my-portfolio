@@ -1,0 +1,28 @@
+.main-about {
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: inset 1px 2px 10px gray;
+  margin-top: 100px !important;
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(208, 206, 206), white);
+  max-width: 1200px;
+  margin: auto;
+}
+p{
+ font-family: 'Times New Roman', Times, serif;
+}
+ .main-about h2{
+    margin-bottom: 20px;
+}
+.btn{
+  background-image: linear-gradient(to right, rgb(136, 133, 133), rgb(233, 227, 227));
+  margin: 10px 0px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+.btn:hover{
+  box-shadow: 1px 1px 5px;
+  cursor: pointer;
+}
